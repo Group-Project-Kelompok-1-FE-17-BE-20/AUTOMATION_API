@@ -1,0 +1,727 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "code": {
+      "type": "integer"
+    },
+    "message": {
+      "type": "string"
+    },
+    "data": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "UserID": {
+              "type": "integer"
+            },
+            "username": {
+              "type": "string"
+            },
+            "nama_lengkap": {
+              "type": "string"
+            },
+            "email": {
+              "type": "string"
+            },
+            "password": {
+              "type": "string"
+            },
+            "nomor_hp": {
+              "type": "string"
+            },
+            "alamat": {
+              "type": "string"
+            },
+            "jenis_kelamin": {
+              "type": "string"
+            },
+            "image_profil": {
+              "type": "string"
+            },
+            "created_at": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "UserID",
+            "username",
+            "nama_lengkap",
+            "email",
+            "password",
+            "nomor_hp",
+            "alamat",
+            "jenis_kelamin",
+            "image_profil",
+            "created_at"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "UserID": {
+              "type": "integer"
+            },
+            "username": {
+              "type": "string"
+            },
+            "nama_lengkap": {
+              "type": "string"
+            },
+            "email": {
+              "type": "string"
+            },
+            "password": {
+              "type": "string"
+            },
+            "nomor_hp": {
+              "type": "string"
+            },
+            "alamat": {
+              "type": "string"
+            },
+            "jenis_kelamin": {
+              "type": "string"
+            },
+            "image_profil": {
+              "type": "string"
+            },
+            "created_at": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "UserID",
+            "username",
+            "nama_lengkap",
+            "email",
+            "password",
+            "nomor_hp",
+            "alamat",
+            "jenis_kelamin",
+            "image_profil",
+            "created_at"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "UserID": {
+              "type": "integer"
+            },
+            "username": {
+              "type": "string"
+            },
+            "nama_lengkap": {
+              "type": "string"
+            },
+            "email": {
+              "type": "string"
+            },
+            "password": {
+              "type": "string"
+            },
+            "nomor_hp": {
+              "type": "string"
+            },
+            "alamat": {
+              "type": "string"
+            },
+            "jenis_kelamin": {
+              "type": "string"
+            },
+            "image_profil": {
+              "type": "string"
+            },
+            "created_at": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "UserID",
+            "username",
+            "nama_lengkap",
+            "email",
+            "password",
+            "nomor_hp",
+            "alamat",
+            "jenis_kelamin",
+            "image_profil",
+            "created_at"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "UserID": {
+              "type": "integer"
+            },
+            "username": {
+              "type": "string"
+            },
+            "nama_lengkap": {
+              "type": "string"
+            },
+            "email": {
+              "type": "string"
+            },
+            "password": {
+              "type": "string"
+            },
+            "nomor_hp": {
+              "type": "string"
+            },
+            "alamat": {
+              "type": "string"
+            },
+            "jenis_kelamin": {
+              "type": "string"
+            },
+            "image_profil": {
+              "type": "string"
+            },
+            "created_at": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "UserID",
+            "username",
+            "nama_lengkap",
+            "email",
+            "password",
+            "nomor_hp",
+            "alamat",
+            "jenis_kelamin",
+            "image_profil",
+            "created_at"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "UserID": {
+              "type": "integer"
+            },
+            "username": {
+              "type": "string"
+            },
+            "nama_lengkap": {
+              "type": "string"
+            },
+            "email": {
+              "type": "string"
+            },
+            "password": {
+              "type": "string"
+            },
+            "nomor_hp": {
+              "type": "string"
+            },
+            "alamat": {
+              "type": "string"
+            },
+            "jenis_kelamin": {
+              "type": "string"
+            },
+            "image_profil": {
+              "type": "string"
+            },
+            "created_at": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "UserID",
+            "username",
+            "nama_lengkap",
+            "email",
+            "password",
+            "nomor_hp",
+            "alamat",
+            "jenis_kelamin",
+            "image_profil",
+            "created_at"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "UserID": {
+              "type": "integer"
+            },
+            "username": {
+              "type": "string"
+            },
+            "nama_lengkap": {
+              "type": "string"
+            },
+            "email": {
+              "type": "string"
+            },
+            "password": {
+              "type": "string"
+            },
+            "nomor_hp": {
+              "type": "string"
+            },
+            "alamat": {
+              "type": "string"
+            },
+            "jenis_kelamin": {
+              "type": "string"
+            },
+            "image_profil": {
+              "type": "string"
+            },
+            "created_at": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "UserID",
+            "username",
+            "nama_lengkap",
+            "email",
+            "password",
+            "nomor_hp",
+            "alamat",
+            "jenis_kelamin",
+            "image_profil",
+            "created_at"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "UserID": {
+              "type": "integer"
+            },
+            "username": {
+              "type": "string"
+            },
+            "nama_lengkap": {
+              "type": "string"
+            },
+            "email": {
+              "type": "string"
+            },
+            "password": {
+              "type": "string"
+            },
+            "nomor_hp": {
+              "type": "string"
+            },
+            "alamat": {
+              "type": "string"
+            },
+            "jenis_kelamin": {
+              "type": "string"
+            },
+            "image_profil": {
+              "type": "string"
+            },
+            "created_at": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "UserID",
+            "username",
+            "nama_lengkap",
+            "email",
+            "password",
+            "nomor_hp",
+            "alamat",
+            "jenis_kelamin",
+            "image_profil",
+            "created_at"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "UserID": {
+              "type": "integer"
+            },
+            "username": {
+              "type": "string"
+            },
+            "nama_lengkap": {
+              "type": "string"
+            },
+            "email": {
+              "type": "string"
+            },
+            "password": {
+              "type": "string"
+            },
+            "nomor_hp": {
+              "type": "string"
+            },
+            "alamat": {
+              "type": "string"
+            },
+            "jenis_kelamin": {
+              "type": "string"
+            },
+            "image_profil": {
+              "type": "string"
+            },
+            "created_at": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "UserID",
+            "username",
+            "nama_lengkap",
+            "email",
+            "password",
+            "nomor_hp",
+            "alamat",
+            "jenis_kelamin",
+            "image_profil",
+            "created_at"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "UserID": {
+              "type": "integer"
+            },
+            "username": {
+              "type": "string"
+            },
+            "nama_lengkap": {
+              "type": "string"
+            },
+            "email": {
+              "type": "string"
+            },
+            "password": {
+              "type": "string"
+            },
+            "nomor_hp": {
+              "type": "string"
+            },
+            "alamat": {
+              "type": "string"
+            },
+            "jenis_kelamin": {
+              "type": "string"
+            },
+            "image_profil": {
+              "type": "string"
+            },
+            "created_at": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "UserID",
+            "username",
+            "nama_lengkap",
+            "email",
+            "password",
+            "nomor_hp",
+            "alamat",
+            "jenis_kelamin",
+            "image_profil",
+            "created_at"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "UserID": {
+              "type": "integer"
+            },
+            "username": {
+              "type": "string"
+            },
+            "nama_lengkap": {
+              "type": "string"
+            },
+            "email": {
+              "type": "string"
+            },
+            "password": {
+              "type": "string"
+            },
+            "nomor_hp": {
+              "type": "string"
+            },
+            "alamat": {
+              "type": "string"
+            },
+            "jenis_kelamin": {
+              "type": "string"
+            },
+            "image_profil": {
+              "type": "string"
+            },
+            "created_at": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "UserID",
+            "username",
+            "nama_lengkap",
+            "email",
+            "password",
+            "nomor_hp",
+            "alamat",
+            "jenis_kelamin",
+            "image_profil",
+            "created_at"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "UserID": {
+              "type": "integer"
+            },
+            "username": {
+              "type": "string"
+            },
+            "nama_lengkap": {
+              "type": "string"
+            },
+            "email": {
+              "type": "string"
+            },
+            "password": {
+              "type": "string"
+            },
+            "nomor_hp": {
+              "type": "string"
+            },
+            "alamat": {
+              "type": "string"
+            },
+            "jenis_kelamin": {
+              "type": "string"
+            },
+            "image_profil": {
+              "type": "string"
+            },
+            "created_at": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "UserID",
+            "username",
+            "nama_lengkap",
+            "email",
+            "password",
+            "nomor_hp",
+            "alamat",
+            "jenis_kelamin",
+            "image_profil",
+            "created_at"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "UserID": {
+              "type": "integer"
+            },
+            "username": {
+              "type": "string"
+            },
+            "nama_lengkap": {
+              "type": "string"
+            },
+            "email": {
+              "type": "string"
+            },
+            "password": {
+              "type": "string"
+            },
+            "nomor_hp": {
+              "type": "string"
+            },
+            "alamat": {
+              "type": "string"
+            },
+            "jenis_kelamin": {
+              "type": "string"
+            },
+            "image_profil": {
+              "type": "string"
+            },
+            "created_at": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "UserID",
+            "username",
+            "nama_lengkap",
+            "email",
+            "password",
+            "nomor_hp",
+            "alamat",
+            "jenis_kelamin",
+            "image_profil",
+            "created_at"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "UserID": {
+              "type": "integer"
+            },
+            "username": {
+              "type": "string"
+            },
+            "nama_lengkap": {
+              "type": "string"
+            },
+            "email": {
+              "type": "string"
+            },
+            "password": {
+              "type": "string"
+            },
+            "nomor_hp": {
+              "type": "string"
+            },
+            "alamat": {
+              "type": "string"
+            },
+            "jenis_kelamin": {
+              "type": "string"
+            },
+            "image_profil": {
+              "type": "string"
+            },
+            "created_at": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "UserID",
+            "username",
+            "nama_lengkap",
+            "email",
+            "password",
+            "nomor_hp",
+            "alamat",
+            "jenis_kelamin",
+            "image_profil",
+            "created_at"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "UserID": {
+              "type": "integer"
+            },
+            "username": {
+              "type": "string"
+            },
+            "nama_lengkap": {
+              "type": "string"
+            },
+            "email": {
+              "type": "string"
+            },
+            "password": {
+              "type": "string"
+            },
+            "nomor_hp": {
+              "type": "string"
+            },
+            "alamat": {
+              "type": "string"
+            },
+            "jenis_kelamin": {
+              "type": "string"
+            },
+            "image_profil": {
+              "type": "string"
+            },
+            "created_at": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "UserID",
+            "username",
+            "nama_lengkap",
+            "email",
+            "password",
+            "nomor_hp",
+            "alamat",
+            "jenis_kelamin",
+            "image_profil",
+            "created_at"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "UserID": {
+              "type": "integer"
+            },
+            "username": {
+              "type": "string"
+            },
+            "nama_lengkap": {
+              "type": "string"
+            },
+            "email": {
+              "type": "string"
+            },
+            "password": {
+              "type": "string"
+            },
+            "nomor_hp": {
+              "type": "string"
+            },
+            "alamat": {
+              "type": "string"
+            },
+            "jenis_kelamin": {
+              "type": "string"
+            },
+            "image_profil": {
+              "type": "string"
+            },
+            "created_at": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "UserID",
+            "username",
+            "nama_lengkap",
+            "email",
+            "password",
+            "nomor_hp",
+            "alamat",
+            "jenis_kelamin",
+            "image_profil",
+            "created_at"
+          ]
+        }
+      ]
+    }
+  },
+  "required": [
+    "code",
+    "message",
+    "data"
+  ]
+}
